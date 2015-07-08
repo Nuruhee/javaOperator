@@ -4,7 +4,7 @@ package ifCondition;
  * @ Author : me
  * @ Story : if만 있는 구문에 관한 문법
  */
-public class OnlyIf {
+public class AntiPatternOnlyIf {
 	public static void main(String[] args) {
 		/*
 		 * 구문 (statement) 자바 연산식에서 3가지 종류의 구문으로 나뉜다. 1. 조건문 if, if-else, switch

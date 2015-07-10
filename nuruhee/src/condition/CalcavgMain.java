@@ -1,4 +1,4 @@
-package ifCondition;
+package condition;
 import java.util.Scanner;
 /*
  * @ Date : 2015.07.07
